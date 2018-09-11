@@ -1,6 +1,6 @@
 {
   "name": "@ycm.jason/async-limit",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Limits the concurrent calls to a function.",
   "main": "index.js",
   "scripts": {
