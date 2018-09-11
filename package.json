@@ -1,7 +1,7 @@
 {
   "name": "@ycm.jason/async-limit",
   "version": "0.1.1",
-  "description": "",
+  "description": "Limits the concurrent calls to a function.",
   "main": "index.js",
   "scripts": {
     "test": "mocha tests"
@@ -11,7 +11,7 @@
     "url": "git+https://github.com/ycmjason/asyncLimit.git"
   },
   "keywords": [],
-  "author": "Jason Yu <jason.yu@thehutgroup.com>",
+  "author": "Jason Yu <me@ycmjason.com>",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/ycmjason/asyncLimit/issues"
@@ -19,5 +19,9 @@
   "homepage": "https://github.com/ycmjason/asyncLimit#readme",
   "devDependencies": {
     "mocha": "^5.2.0"
-  }
+  },
+  "directories": {
+    "test": "tests"
+  },
+  "dependencies": {}
 }
