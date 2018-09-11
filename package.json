@@ -1,0 +1,23 @@
+{
+  "name": "asyncLimit",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha tests"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ycmjason/asyncLimit.git"
+  },
+  "keywords": [],
+  "author": "Jason Yu <jason.yu@thehutgroup.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ycmjason/asyncLimit/issues"
+  },
+  "homepage": "https://github.com/ycmjason/asyncLimit#readme",
+  "devDependencies": {
+    "mocha": "^5.2.0"
+  }
+}
